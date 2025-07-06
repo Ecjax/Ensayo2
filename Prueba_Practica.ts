@@ -1,3 +1,6 @@
+import {suma} from './Suma'
+import {resta} from './Resta'
+
 let a : number = 9;
 let b : number = 39;
 let c : number = 45;
